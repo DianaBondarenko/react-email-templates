@@ -13,7 +13,7 @@ import {
 } from "@react-email/components";
 import Footer from "./Footer";
 
-export const StripeWelcomeEmail = () => {
+export const UserInvitationEmail = () => {
   const userName = "{{name}}";
   const userWorkEmail = "{{workEmail}}";
   const inviteLink = "{{inviteUrl}}";
@@ -78,7 +78,7 @@ export const StripeWelcomeEmail = () => {
   );
 };
 
-export default StripeWelcomeEmail;
+export default UserInvitationEmail;
 
 const main = {
   backgroundColor: "#ffffff",
