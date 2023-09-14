@@ -43,7 +43,7 @@ export const PasswordChangedEmail = () => {
             />
             <Section style={mainContent} className="main-content">
               <Img
-                src="http://cdn.mcauto-images-production.sendgrid.net/aa869b07e6579d73/e7e35049-6510-4bd9-a430-820ebb6b8705/153x50.png"
+                src="http://cdn.mcauto-images-production.sendgrid.net/d923f972c2575381/5c066bcb-51a1-4fa3-9a27-fe1b7ae65186/48x48.png"
                 width="48"
                 height="48"
                 alt="check"
