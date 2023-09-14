@@ -38,7 +38,7 @@ export const ResetPasswordEmail = () => {
         <Container style={container} className="container">
           <Section>
             <Img
-              src="http://cdn.mcauto-images-production.sendgrid.net/aa869b07e6579d73/e7e35049-6510-4bd9-a430-820ebb6b8705/153x50.png"
+              src="http://cdn.mcauto-images-production.sendgrid.net/d923f972c2575381/a8865917-d3ff-4b00-9493-9bd66972cbc2/153x50.png"
               width="150"
               height="50"
               alt="Beagle"
