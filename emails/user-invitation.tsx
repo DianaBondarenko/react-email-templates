@@ -114,6 +114,7 @@ const paragraph = {
   fontWeight: 400,
   lineHeight: "24px",
   textAlign: "left" as const,
+  margin: 0,
 };
 
 const brandText = {

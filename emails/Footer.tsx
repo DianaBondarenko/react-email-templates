@@ -73,6 +73,7 @@ const details = {
   letterSpacing: "-0.2px",
   margin: "16px 0",
 };
+
 const navigation = {
   margin: 0,
 };
