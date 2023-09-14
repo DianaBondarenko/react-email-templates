@@ -21,7 +21,7 @@ const Footer = () => {
         <br />
         ©2022 All rights reserved.
       </Text>
-      <Text>
+      <Text style={navigation}>
         <Link style={navLink} href={helpLink}>
           Help
         </Link>
@@ -61,6 +61,7 @@ const subheading = {
   fontSize: "12px",
   lineHeight: "14.4px",
   fontWeight: 500,
+  margin: 0,
 };
 
 const details = {
@@ -71,6 +72,9 @@ const details = {
   fontWeight: 400,
   letterSpacing: "-0.2px",
   margin: "16px 0",
+};
+const navigation = {
+  margin: 0,
 };
 
 const navLink = {
